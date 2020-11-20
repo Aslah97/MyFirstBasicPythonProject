@@ -26,6 +26,7 @@ elif answer == "no":
 else:
     print("Invalid entry!")
 
+# Choices:
 choice1 = input("Do you want to drive or swim? (drive/swim) ").lower()
 if choice1 == "drive" :
     print("You got hit by another car & you lost 5 health!")
