@@ -1,2 +1,2 @@
 # MyFirstBasicPythonProject
-Basic loop project in Python
+Basic nested loop project in Python
